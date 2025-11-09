@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/fcakiroglu16" target="blank"><img src="https://img.shields.io/twitter/follow/fcakiroglu16?logo=twitter&style=for-the-badge" alt="fcakiroglu16" /></a> </p>
 
-- 📝 I regularly write articles on [www.seniordeveloper.com](www.seniordeveloper.com)
 
 - 📫 How to reach me **f-cakiroglu@outlook.com**
 
